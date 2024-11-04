@@ -19,7 +19,7 @@
 <ol>
     <li><strong>Projeyi Kopyala</strong>: GitHub reposundan projeyi bilgisayarınıza klonlayın.
         <br><br>
-        <pre><code>git clone https://github.com/yourusername/music-player-app.git</code></pre>
+        <pre><code>git clone https://github.com/omercikan/music-player.git</code></pre>
     </li>
     <li><strong>Bağımlılıkları Yükle</strong>: Proje dizininde gerekli paketleri yükleyin.
         <br><br>
